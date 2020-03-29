@@ -1,0 +1,2 @@
+class Listt < ApplicationRecord
+end
